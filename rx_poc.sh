@@ -5,7 +5,7 @@
    # and current conditions from the command line.
    # Author: Aria Odoh
    # Input:
-   # call script with a commad line argument of the city you want
+   # Invoke script with a commad line argument of the city you want
    # weather information on.
   
    # Output:
